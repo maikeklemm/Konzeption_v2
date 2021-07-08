@@ -11,9 +11,9 @@ let messageField;
 let modal;
 let btn;
 let span;
-let url = "http://localhost:5502/";
-
-//let url: string = "https://fiveminutenonsense.herokuapp.com";
+//let url = "http://localhost:5502/";
+let url = "https://fiveminutenonsense.herokuapp.com";
+	
 function handleLoad(_event) {
    
     setInterval(updateChat,100); // soll jede sekunde die neuesten chat-nachrichten laden
