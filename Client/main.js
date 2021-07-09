@@ -17,7 +17,7 @@ let modal;
 let btn;
 let span;
 //let url = "http://localhost:5502/";
-let url = "https://fiveminutenonsense.herokuapp.com";
+let url = "https://fiveminutenonsensev2.herokuapp.com/";
 
 function handleLoad(_event) {
    
